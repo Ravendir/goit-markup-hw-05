@@ -216,7 +216,7 @@ footer {
   text-align: center;
   color: var(--primary-white-color);
   margin-bottom: 94px;
-  background-image: url('./images/hero/studio-background.jpg');
+  background-image: url('../images/hero/studio-background.jpg');
   background-repeat: no-repeat;
   background-size: cover;
 }

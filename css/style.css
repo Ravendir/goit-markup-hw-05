@@ -743,7 +743,6 @@ li.team > p {
 
 .project-text {
   position: absolute;
-  /* display: flex; */
   top: 0;
   left: 0;
   width: 322px;
